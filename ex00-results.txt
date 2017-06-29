@@ -1,0 +1,15 @@
+C brute force code, no optimizations
+
+real 0m18.916s
+user 0m18.891s
+sys  0m0.031s
+
+C brute force code, O3 optimizations
+
+real    0m0.025s
+user    0m0.000s
+sys     0m0.031s
+
+Java brute force code
+
+
