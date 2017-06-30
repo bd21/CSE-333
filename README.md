@@ -1,2 +1,2 @@
 # CSE-333
-Self-taught systems programming course, all the excercises/homeworks
+Self-taught systems programming course.  Includes all the excercises/homeworks.
