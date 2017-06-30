@@ -10,6 +10,9 @@ real    0m0.025s
 user    0m0.000s
 sys     0m0.031s
 
-Java brute force code
+Java brute force code, no optimizations (this was bad)
 
+real    0m57.067s
+user    0m56.359s
+sys     0m0.656s
 
